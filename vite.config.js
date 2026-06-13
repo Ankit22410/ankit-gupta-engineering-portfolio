@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     target: 'es2015',
-    minify: 'esbuild',
+    minify: 'esbuild'
     sourcemap: false,
     rollupOptions: {
       output: {
