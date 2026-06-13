@@ -1,0 +1,10 @@
+{
+  "name":             "Ankit Gupta | Engineering Portfolio",
+  "short_name":       "AG Portfolio",
+  "description":      "Electronics Engineer — Embedded Systems, Drones, IoT, Aerospace",
+  "start_url":        "/",
+  "display":          "standalone",
+  "background_color": "#020408",
+  "theme_color":      "#00f5ff",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

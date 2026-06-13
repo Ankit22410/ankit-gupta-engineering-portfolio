@@ -1,0 +1,1 @@
+Add resume.pdf and og-image.png (1200x630) to this folder.

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/*.chunk.js
+
+Sitemap: https://ankit-gupta-engineering-portfolio.vercel.app/sitemap.xml

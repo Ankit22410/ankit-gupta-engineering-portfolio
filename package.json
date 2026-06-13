@@ -1,0 +1,24 @@
+{
+  "name": "ankit-gupta-engineering-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "World-class engineering portfolio — Ankit Gupta, Electronics Engineer",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react":     "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three":     "^0.128.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite":                 "^5.4.1"
+  },
+  "keywords": ["electronics-engineer","embedded-systems","drone-developer","iot","robotics","aerospace","KNIT-Sultanpur","HAL","portfolio"],
+  "author": "Ankit Gupta <ankitgupta22410@gmail.com>",
+  "homepage": "https://ankit-gupta-engineering-portfolio.vercel.app"
+}
